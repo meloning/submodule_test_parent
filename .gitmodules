@@ -1,0 +1,3 @@
+[submodule "submodule_test_child"]
+	path = submodule_test_child
+	url = git@github.com:meloning/submodule_test_child.git
